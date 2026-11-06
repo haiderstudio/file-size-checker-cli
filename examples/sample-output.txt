@@ -1,0 +1,6 @@
+examples/big.txt: 3.2 KB (limit 1.0 KB)
+examples/nested/deep.txt: 2.2 KB (limit 1.0 KB)
+Checked 3 file(s), 2 over the limit of 1.0 KB.
+FAIL — 2 file(s) over the limit.
+Checked 3 file(s), 0 over the limit of 1.0 MB.
+PASS — all 3 file(s) under the limit of 1.0 MB.
